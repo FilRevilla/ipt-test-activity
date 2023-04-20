@@ -1,5 +1,8 @@
 #include<stdio.h>
 
 int main() {
-	printf("Hello, Git!");
+   // prinf() displays the string inside quotation
+   printf("Hello, Bam!");
+   prinf("Im Girlfriend")
+   return 0;
 }
